@@ -7,19 +7,18 @@ These prompts are collected from community resources and public repositories.
 
 ---
 
-<DEEPSEEK>
+## DEEPSEEK
 - DeepFluff: https://rentry.org/DeepFluff
 - CherryBox: https://rentry.org/CherryBox
 - Deepstyles: https://rentry.org/deepstyles
 - EveningTruth: https://rentry.org/Evening-Truth
 
-<GLM>
+## GLM
 - SepsisShock: https://github.com/SepsisShock/GLM_4.6/
 - Stabs-EDH: https://github.com/Zorgonatis/Stabs-EDH
 
-## Future Updates
-Planned additions:
+---
 
+# Future Updates
+Planned additions:
 - more model categories
-- prompt comparisons
-- prompt engineering notes
