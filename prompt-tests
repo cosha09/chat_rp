@@ -7,6 +7,14 @@ These prompts are collected from community resources and public repositories.
 
 ---
 
+## Purpose
+The purpose of this repository is:
+
+- to keep track of useful prompt resources
+- to organize prompts by AI model
+
+---
+
 ## DEEPSEEK
 - DeepFluff: https://rentry.org/DeepFluff
 - CherryBox: https://rentry.org/CherryBox
@@ -23,5 +31,5 @@ These prompts are collected from community resources and public repositories.
 
 ---
 
-# Notes
+## Notes
 - All prompts belong to their original authors. This repository only collects links to publicly available resources.
